@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Developer by Logic ⚡ | Designer by Heart 🎨 | Problem Solver 💻
+  Developer by Logic | Designer by Heart  | Problem Solver 
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working on **Backend Development & Full Stack Projects, trying to build scalable AI systems with them**
-- 🌱 I'm currently learning **AWS, Data Structures and Open Source Software Contribution **
+- 🌱 I'm currently learning **AWS, Data Structures and Open Source Software Contribution**
 - 💻 I love solving **DSA & OA problems(PRP 717 is my go-to-place btw;)**
 - 👯 I'm looking to collaborate on **Open Source Softwares**
 - 💬 Ask me about **Java, LLM Engineering, DSA**
@@ -137,10 +137,7 @@
 
 <p align="center">
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=devxpatel11&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
-/>
+
 
 <img
   width="48%"
