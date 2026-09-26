@@ -8,23 +8,23 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Competitive+Programmer;Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;ML + Researcher;Backend+Developer;Open+Source+Enthusiast;" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Backend Development & Full Stack Projects**
-- 🌱 I'm currently learning **AWS, DevOps, System Design & Cyber Security**
-- 💻 I love solving **DSA & Competitive Programming Problems**
-- 👯 I'm looking to collaborate on **Open Source & Interesting Projects**
-- 💬 Ask me about **Java, LLMs, DSA and Web Development**
+- 🔭 I'm currently working on **Backend Development & Full Stack Projects, trying to build scalable AI systems with them**
+- 🌱 I'm currently learning **AWS, Data Structures and Open Source Software Contribution **
+- 💻 I love solving **DSA & OA problems(PRP 717 is my go-to-place btw;)**
+- 👯 I'm looking to collaborate on **Open Source Softwares**
+- 💬 Ask me about **Java, LLM Engineering, DSA**
 - 📫 Reach me at: **dev.patel8514@gmail.com**
 - 🌐 LinkedIn: **https://www.linkedin.com/in/growyourbusinesswithdev**
 - ⚡ Fun fact: **ghee khatam.**
 
----
+--- 
 
 # 🌐 Socials
 
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/devxpatel11">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -50,13 +50,10 @@
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages (Java lover btw)
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
@@ -100,7 +97,7 @@
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases (trying to shift to PostgreSQL)
 
 <p align="left">
 
@@ -142,12 +139,12 @@
 
 <img
   width="48%"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=devxpatel11&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
 />
 
 <img
   width="48%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=devxpatel11&theme=tokyonight&hide_border=false"
 />
 
 </p>
@@ -160,7 +157,7 @@
 
 <img
   width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxpatel11&layout=compact&theme=tokyonight&hide_border=false"
 />
 
 </p>
@@ -172,7 +169,7 @@
 <p align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
+  src="https://github-profile-trophy.vercel.app/?username=devxpatel11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"
 />
 
 </p>
@@ -235,7 +232,7 @@
 
 <p align="center">
 
-⭐ From <a href="https://github.com/YOUR_USERNAME">YOUR_NAME</a>
+⭐ From <a href="https://github.com/devxpatel11">Dev Patel</a>
 
 </p>
 <!--
@@ -243,11 +240,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Advanced Interruptible Agents and Knowledge Graphs
-- 🌱 I’m currently learning LLM Engineering and OSS
+- 🔭 I’m currently working on Advanced Interruptible Agents and Knowledge Graphs based projects.
+- 🌱 I’m currently learning LLM Engineering, OSS and the art of larping
 - 👯 I’m looking to collaborate - wherever possible
-- 🤔 I’m looking for help with SpringBoot and Summer Internship;)
+- 🤔 I’m looking for help with SpringBoot and a Summer Internship;)
   
-- 📫 How to reach me: X
+- 📫 How to reach me: X and LinkedIn, preferably X(formerly twitter)
 
 -->
