@@ -22,7 +22,7 @@
 - 💬 Ask me about **Java, LLM Engineering, DSA**
 - 📫 Reach me at: **dev.patel8514@gmail.com**
 - 🌐 LinkedIn: **https://www.linkedin.com/in/growyourbusinesswithdev**
-- ⚡ Fun fact: **ghee khatam.**
+- ⚡ Fun fact: **ghee almost khatam.**
 
 --- 
 
