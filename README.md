@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Backend Development & Full Stack Projects, trying to build scalable AI systems with them**
+- 🔭 I'm currently working on **Backend Development & Full Stack Projects, trying to build scalable systems with them**
 - 🌱 I'm currently learning **AWS, Data Structures and Open Source Software Contribution**
 - 💻 I love solving **DSA & OA problems(PRP 717 is my go-to-place btw;)**
 - 👯 I'm looking to collaborate on **Open Source Softwares**
