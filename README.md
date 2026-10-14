@@ -3,7 +3,7 @@
   Hey There 👋, I'm Dev
 </h1>
 
-<h3 align="center">sa
+<h3 align="center">
   Developer by Logic | Designer by Heart  | Problem Solver 
 </h3>
 
