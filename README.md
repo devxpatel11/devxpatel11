@@ -50,7 +50,7 @@
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages (Java lover btw)
+## 👨‍💻 Programming Languages 
 
 <p align="left">
 
